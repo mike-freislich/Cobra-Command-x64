@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bomb : MonoBehaviour
 {
-    public float speed = 2.0f;
+    public float speed = 1.0f;
     public GameObject explosion;
     float speedMax = 10f;
 
