@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class BulletSpawn : MonoBehaviour
 {
-   [SerializeField] GameObject bullet;
-   [SerializeField] Transform spawnPoint;
-   [SerializeField] float fireRate = 0.1f;
+   public GameObject bullet;
+   public Transform spawnPoint;
+   public float fireRate = 0.1f;
    float lastFired = 0f;
    
    void Start() {
