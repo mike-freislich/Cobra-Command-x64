@@ -14,6 +14,6 @@ public class Scroller : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.Translate(scrollSpeed * Time.deltaTime, 0, 0);
+        transform.Translate(scrollSpeed * Time.fixedDeltaTime, 0, 0);
     }
 }

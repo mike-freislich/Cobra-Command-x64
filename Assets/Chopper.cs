@@ -19,7 +19,7 @@ public class Chopper : MonoBehaviour
 
     void FixedUpdate()
     {
-        float delta = Time.deltaTime;        
+        float delta = Time.fixedDeltaTime;        
 
         //float dist = (startPos - mainCamera.transform.position.x);
         transform.Translate(scrollSpeed * delta, 0, 0);
