@@ -576,7 +576,7 @@ GameObject:
   - component: {fileID: 614860058}
   - component: {fileID: 614860060}
   - component: {fileID: 614860059}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: turbo boost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5463,11 +5463,10 @@ GameObject:
   - component: {fileID: 975594380}
   - component: {fileID: 975594379}
   - component: {fileID: 975594382}
-  - component: {fileID: 975594383}
   - component: {fileID: 975594384}
+  - component: {fileID: 975594383}
   - component: {fileID: 975594386}
-  - component: {fileID: 975594385}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Chopper
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -5557,6 +5556,7 @@ Transform:
   m_Children:
   - {fileID: 614860058}
   - {fileID: 1771483270}
+  - {fileID: 1021943614}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5575,23 +5575,21 @@ MonoBehaviour:
   scrollSpeed: 2
   moveSpeed: {x: 5, y: 4}
   mainCamera: {fileID: 519420031}
---- !u!1818360609 &975594383
-RotationConstraint:
+--- !u!114 &975594383
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975594378}
-  m_Enabled: 0
-  m_Weight: 1
-  m_RotationAtRest: {x: 0, y: 0, z: 0}
-  m_RotationOffset: {x: 0, y: 0, z: 0}
-  m_AffectRotationX: 1
-  m_AffectRotationY: 1
-  m_AffectRotationZ: 1
-  m_IsContraintActive: 0
-  m_IsLocked: 0
-  m_Sources: []
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3ed30c6f91e434f965a6e8f66f7e9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bomb: {fileID: 781379458750140638, guid: cbd0b8998d44c49e8ab993fe4aff6238, type: 3}
+  spawnPoint: {fileID: 1021943614}
+  fireRate: 0.4
 --- !u!114 &975594384
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5606,28 +5604,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 3894822061976642530, guid: 6638dcbe5e2664dfcb57e7c55c5c0317, type: 3}
   spawnPoint: {fileID: 1771483270}
-  fireRate: 0.1
---- !u!50 &975594385
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 975594378}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 1
-  m_Constraints: 0
+  fireRate: 0.2
 --- !u!70 &975594386
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5644,6 +5621,36 @@ CapsuleCollider2D:
   m_Offset: {x: 0.26294807, y: -0.06395907}
   m_Size: {x: 1.3103025, y: 0.3793127}
   m_Direction: 1
+--- !u!1 &1021943613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1021943614}
+  m_Layer: 7
+  m_Name: BombSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1021943614
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021943613}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.287, y: -0.282, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 975594381}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1125566322
 GameObject:
   m_ObjectHideFlags: 0
@@ -6097,7 +6104,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1771483270}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FrontSpawnPoint
   m_TagString: Untagged
   m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
