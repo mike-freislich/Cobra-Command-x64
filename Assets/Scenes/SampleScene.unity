@@ -334,7 +334,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 519420028}
-  parallaxEffect: 0.5
+  parallaxEffect: 0
 --- !u!212 &275975126
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -507,7 +507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5083167766a7a4073ab2d7882f7e9937, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scrollSpeed: 2
+  scrollSpeed: 1
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -5574,7 +5574,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18ab76a3533c445298109aca35914061, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scrollSpeed: 2
+  scrollSpeed: 1
   moveSpeed: {x: 5, y: 4}
   mainCamera: {fileID: 519420031}
 --- !u!114 &975594383
@@ -5977,7 +5977,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 519420028}
-  parallaxEffect: 0.8
+  parallaxEffect: 0.5
 --- !u!212 &1464081834
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6443,7 +6443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 519420028}
-  parallaxEffect: 0
+  parallaxEffect: -0.5
 --- !u!212 &2121114608
 SpriteRenderer:
   m_ObjectHideFlags: 0

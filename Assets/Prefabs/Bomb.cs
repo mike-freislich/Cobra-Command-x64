@@ -35,7 +35,6 @@ public class Bomb : MonoBehaviour
         if (offScreen()) Destroy(gameObject);        
     }
  
-
     private bool offScreen() {
         Vector2 screenPosition = Camera.main.WorldToScreenPoint(transform.position);
         return (screenPosition.x < widthThreshold.x || screenPosition.x > widthThreshold.y || screenPosition.y < heightThreshold.x || screenPosition.y > heightThreshold.y);        
@@ -43,8 +42,12 @@ public class Bomb : MonoBehaviour
     
     private void OnTriggerEnter2D(Collider2D other) {                
         if (other.gameObject.tag == "Ground") {            
-            Instantiate(explosion, transform.position, other.transform.rotation);
-            Destroy(gameObject);
+            explode();            
         }
+    }
+
+    private void explode() {
+        Instantiate(explosion, transform.position, new Quaternion());
+        Destroy(gameObject);
     }
 }
