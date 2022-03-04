@@ -49,7 +49,7 @@ public class Bomb : MonoBehaviour
     private void explode() {
         Vector3 pos = transform.position;
         Vector3 extents = explosion.GetComponent<SpriteRenderer>().bounds.extents;
-        pos += new Vector3(0, extents.y, 0);
+        pos += new Vector3(0, extents.y -0.5f, 0);
         Instantiate(explosion, pos, new Quaternion());
         Destroy(gameObject);
     }
