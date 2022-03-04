@@ -115,7 +115,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  explosion: {fileID: 2259690336176660414, guid: 831336c69286d44969d607e42421a521, type: 3}
+  explosion: {fileID: 7223322040953628749, guid: a9318886e77bb49c198982f93d247db8, type: 3}
 --- !u!82 &-3409636009797321902
 AudioSource:
   m_ObjectHideFlags: 0
