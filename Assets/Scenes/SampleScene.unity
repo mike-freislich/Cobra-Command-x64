@@ -215,6 +215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 240491840}
   - component: {fileID: 240491841}
+  - component: {fileID: 240491842}
   m_Layer: 0
   m_Name: Background 2 (2)
   m_TagString: Untagged
@@ -287,6 +288,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &240491842
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 240491839}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1c2184895289742a4b495135a71f4407, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &275975122
 GameObject:
   m_ObjectHideFlags: 0
@@ -5591,7 +5611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bomb: {fileID: 781379458750140638, guid: cbd0b8998d44c49e8ab993fe4aff6238, type: 3}
   spawnPoint: {fileID: 1021943614}
-  fireRate: 0.1
+  fireRate: 0.5
 --- !u!114 &975594384
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5606,7 +5626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 3894822061976642530, guid: 6638dcbe5e2664dfcb57e7c55c5c0317, type: 3}
   spawnPoint: {fileID: 1771483270}
-  fireRate: 0.05
+  fireRate: 0.2
 --- !u!82 &975594385
 AudioSource:
   m_ObjectHideFlags: 0
