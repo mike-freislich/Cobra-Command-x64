@@ -1,0 +1,2760 @@
+fileFormatVersion: 2
+guid: 8cc9131d427a94b56afa9b40d9552272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5031691519223802914
+    second: groundExplosionLarge_0
+  - first:
+      213: -1841636326279491618
+    second: groundExplosionLarge_1
+  - first:
+      213: 3782092148334836136
+    second: groundExplosionLarge_2
+  - first:
+      213: -7147794492470577456
+    second: groundExplosionLarge_3
+  - first:
+      213: -6360159142416913950
+    second: groundExplosionLarge_4
+  - first:
+      213: 8737445877052141437
+    second: groundExplosionLarge_5
+  - first:
+      213: -387499515950921090
+    second: groundExplosionLarge_6
+  - first:
+      213: 2448002871948668598
+    second: groundExplosionLarge_7
+  - first:
+      213: -1291720845378247651
+    second: groundExplosionLarge_8
+  - first:
+      213: -7174459674019966199
+    second: groundExplosionLarge_9
+  - first:
+      213: -7359074571822491999
+    second: groundExplosionLarge_118
+  - first:
+      213: -2746325869412547203
+    second: groundExplosionLarge_11
+  - first:
+      213: -1050792930671646293
+    second: groundExplosionLarge_12
+  - first:
+      213: -1996476560244583526
+    second: groundExplosionLarge_13
+  - first:
+      213: 2155828955273211534
+    second: groundExplosionLarge_14
+  - first:
+      213: 6963881853556317550
+    second: groundExplosionLarge_15
+  - first:
+      213: 3131867281164236440
+    second: groundExplosionLarge_16
+  - first:
+      213: -8305422811441153746
+    second: groundExplosionLarge_17
+  - first:
+      213: 9072327093763733616
+    second: groundExplosionLarge_18
+  - first:
+      213: -5971551199263361067
+    second: groundExplosionLarge_19
+  - first:
+      213: 8865472550347953189
+    second: groundExplosionLarge_20
+  - first:
+      213: 252233345408817779
+    second: groundExplosionLarge_110
+  - first:
+      213: 8712422676927481681
+    second: groundExplosionLarge_22
+  - first:
+      213: -4041563132314520248
+    second: groundExplosionLarge_23
+  - first:
+      213: -6595465909424025362
+    second: groundExplosionLarge_24
+  - first:
+      213: -5437465093812932845
+    second: groundExplosionLarge_25
+  - first:
+      213: -6577641996581787906
+    second: groundExplosionLarge_26
+  - first:
+      213: 505228642735294359
+    second: groundExplosionLarge_27
+  - first:
+      213: 391488027641708120
+    second: groundExplosionLarge_28
+  - first:
+      213: -3703398638857812983
+    second: groundExplosionLarge_29
+  - first:
+      213: 8770725971474150820
+    second: groundExplosionLarge_30
+  - first:
+      213: -7668814286615880721
+    second: groundExplosionLarge_31
+  - first:
+      213: -1989121993196194743
+    second: groundExplosionLarge_111
+  - first:
+      213: -8625254148966783953
+    second: groundExplosionLarge_33
+  - first:
+      213: -4205878100375432765
+    second: groundExplosionLarge_34
+  - first:
+      213: -4191214182989825040
+    second: groundExplosionLarge_35
+  - first:
+      213: 4876398831321454828
+    second: groundExplosionLarge_36
+  - first:
+      213: -1990014259992050776
+    second: groundExplosionLarge_37
+  - first:
+      213: 4679084757172991057
+    second: groundExplosionLarge_38
+  - first:
+      213: 5950271821496416369
+    second: groundExplosionLarge_39
+  - first:
+      213: 5580825946913507227
+    second: groundExplosionLarge_40
+  - first:
+      213: 8977048810391538454
+    second: groundExplosionLarge_41
+  - first:
+      213: 3404647579502443741
+    second: groundExplosionLarge_42
+  - first:
+      213: 6199419486550889821
+    second: groundExplosionLarge_112
+  - first:
+      213: 3301936167587277139
+    second: groundExplosionLarge_44
+  - first:
+      213: 8926868160966554707
+    second: groundExplosionLarge_45
+  - first:
+      213: 237208934554266828
+    second: groundExplosionLarge_46
+  - first:
+      213: -2650249025858032711
+    second: groundExplosionLarge_47
+  - first:
+      213: 2895635086488740050
+    second: groundExplosionLarge_48
+  - first:
+      213: -2730810872407568112
+    second: groundExplosionLarge_49
+  - first:
+      213: 6030559873572346581
+    second: groundExplosionLarge_50
+  - first:
+      213: 4082967947573581297
+    second: groundExplosionLarge_51
+  - first:
+      213: -1660864974495297542
+    second: groundExplosionLarge_52
+  - first:
+      213: -1695506651879351183
+    second: groundExplosionLarge_53
+  - first:
+      213: 8897223611249342169
+    second: groundExplosionLarge_113
+  - first:
+      213: 3504890371298450701
+    second: groundExplosionLarge_55
+  - first:
+      213: 7333529666441492910
+    second: groundExplosionLarge_56
+  - first:
+      213: 1600819667165021444
+    second: groundExplosionLarge_57
+  - first:
+      213: 256448428420112902
+    second: groundExplosionLarge_58
+  - first:
+      213: -3977461939338984148
+    second: groundExplosionLarge_59
+  - first:
+      213: -3648449050063403640
+    second: groundExplosionLarge_60
+  - first:
+      213: 7776570524958739011
+    second: groundExplosionLarge_61
+  - first:
+      213: 5791520760625091110
+    second: groundExplosionLarge_62
+  - first:
+      213: -145901397863757037
+    second: groundExplosionLarge_63
+  - first:
+      213: -8608865914464720722
+    second: groundExplosionLarge_64
+  - first:
+      213: -2323447347347988061
+    second: groundExplosionLarge_114
+  - first:
+      213: -7364413953559011497
+    second: groundExplosionLarge_66
+  - first:
+      213: -3797891266250027980
+    second: groundExplosionLarge_67
+  - first:
+      213: 6657573353373496325
+    second: groundExplosionLarge_68
+  - first:
+      213: -8704387367406121717
+    second: groundExplosionLarge_69
+  - first:
+      213: 5085766418344977747
+    second: groundExplosionLarge_70
+  - first:
+      213: 1603435889330833449
+    second: groundExplosionLarge_71
+  - first:
+      213: 6112661676803429150
+    second: groundExplosionLarge_72
+  - first:
+      213: 2244710434500128488
+    second: groundExplosionLarge_73
+  - first:
+      213: 7178674211732723015
+    second: groundExplosionLarge_74
+  - first:
+      213: 5475599903770818321
+    second: groundExplosionLarge_75
+  - first:
+      213: -6788884505899328413
+    second: groundExplosionLarge_115
+  - first:
+      213: -5138968040028113327
+    second: groundExplosionLarge_77
+  - first:
+      213: 7139209100887488230
+    second: groundExplosionLarge_78
+  - first:
+      213: -3461320392427768358
+    second: groundExplosionLarge_79
+  - first:
+      213: 4756783836888170779
+    second: groundExplosionLarge_80
+  - first:
+      213: 2444933535706504306
+    second: groundExplosionLarge_81
+  - first:
+      213: 4944624014710257583
+    second: groundExplosionLarge_82
+  - first:
+      213: -2000256676065374855
+    second: groundExplosionLarge_83
+  - first:
+      213: -878839392888206035
+    second: groundExplosionLarge_84
+  - first:
+      213: 7472564323216919716
+    second: groundExplosionLarge_85
+  - first:
+      213: -4426135433582938482
+    second: groundExplosionLarge_86
+  - first:
+      213: 8991397221114546949
+    second: groundExplosionLarge_116
+  - first:
+      213: 7606683810824571215
+    second: groundExplosionLarge_88
+  - first:
+      213: 7906623890486437617
+    second: groundExplosionLarge_89
+  - first:
+      213: 8154429580039522188
+    second: groundExplosionLarge_90
+  - first:
+      213: -8347724381024342285
+    second: groundExplosionLarge_91
+  - first:
+      213: -6443264313848621268
+    second: groundExplosionLarge_92
+  - first:
+      213: -3695637937635005540
+    second: groundExplosionLarge_93
+  - first:
+      213: 2296823998052435346
+    second: groundExplosionLarge_94
+  - first:
+      213: -7508225534053151354
+    second: groundExplosionLarge_95
+  - first:
+      213: 4553324072923775712
+    second: groundExplosionLarge_96
+  - first:
+      213: -958448526470426992
+    second: groundExplosionLarge_97
+  - first:
+      213: 8365601757918752921
+    second: groundExplosionLarge_117
+  - first:
+      213: -3232390139425490268
+    second: groundExplosionLarge_99
+  - first:
+      213: -6029115264615499865
+    second: groundExplosionLarge_100
+  - first:
+      213: -4521732528645984173
+    second: groundExplosionLarge_101
+  - first:
+      213: -7147499809473528970
+    second: groundExplosionLarge_102
+  - first:
+      213: 4706803657743637046
+    second: groundExplosionLarge_103
+  - first:
+      213: 6223486506563441072
+    second: groundExplosionLarge_104
+  - first:
+      213: -5988161694542603589
+    second: groundExplosionLarge_105
+  - first:
+      213: -3354497770714226446
+    second: groundExplosionLarge_106
+  - first:
+      213: 141543364505866489
+    second: groundExplosionLarge_107
+  - first:
+      213: 1586587682490104272
+    second: groundExplosionLarge_108
+  - first:
+      213: 7095726749894192489
+    second: groundExplosionLarge_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: groundExplosionLarge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d159e837db2ab0800000000000000
+      internalID: -5031691519223802914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc7a6c4813176e0800000000000000
+      internalID: -1841636326279491618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_2
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ba4145c0bc7430800000000000000
+      internalID: 3782092148334836136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_3
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63ccc97ceedcc90800000000000000
+      internalID: -7147794492470577456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_4
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9694125fc2cb7a0800000000000000
+      internalID: -6360159142416913950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_5
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe4e17bb4a14970800000000000000
+      internalID: 8737445877052141437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_6
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0c194e335f9af0800000000000000
+      internalID: -387499515950921090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_7
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee2a754ad09f120800000000000000
+      internalID: 2448002871948668598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_8
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1423462cb2e21ee0800000000000000
+      internalID: -1291720845378247651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_9
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903dcaa30f23f6c90800000000000000
+      internalID: -7174459674019966199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_109
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 4563
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a619eebaa05fd990800000000000000
+      internalID: -7359074571822491999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7503342c2713e9d0800000000000000
+      internalID: -2746325869412547203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba923da9565da61f0800000000000000
+      internalID: -1050792930671646293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_13
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935a3075271b44e0800000000000000
+      internalID: -1996476560244583526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_14
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eaf83430b0bed10800000000000000
+      internalID: 2155828955273211534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_15
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d530b46ada4a060800000000000000
+      internalID: 6963881853556317550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_16
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967679e2b0a67b20800000000000000
+      internalID: 3131867281164236440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_17
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bf9ef4f53dbc80800000000000000
+      internalID: -8305422811441153746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_18
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07870fdac6167ed70800000000000000
+      internalID: 9072327093763733616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_19
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d779d9a2d9c02da0800000000000000
+      internalID: -5971551199263361067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_20
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245771305c780b70800000000000000
+      internalID: 8865472550347953189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_110
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 4056
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad99924ec108300800000000000000
+      internalID: 252233345408817779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570257a34eb8e870800000000000000
+      internalID: 8712422676927481681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f3198ebb79e7c0800000000000000
+      internalID: -4041563132314520248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_24
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0159c13b23874a0800000000000000
+      internalID: -6595465909424025362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_25
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa1bc5e4e3a84b0800000000000000
+      internalID: -5437465093812932845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_26
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62d06347587b4a0800000000000000
+      internalID: -6577641996581787906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_27
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797079416cee20700800000000000000
+      internalID: 505228642735294359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_28
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef6657948de6500800000000000000
+      internalID: 391488027641708120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_29
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90407353f82ea9cc0800000000000000
+      internalID: -3703398638857812983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_30
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a572004dc0e7b970800000000000000
+      internalID: 8770725971474150820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_31
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd1d59906e29590800000000000000
+      internalID: -7668814286615880721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_111
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 3549
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bf9406183564e0800000000000000
+      internalID: -1989121993196194743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ee51dc01fc4880800000000000000
+      internalID: -8625254148966783953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_34
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11782c628b1a5c0800000000000000
+      internalID: -4205878100375432765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_35
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbff4518e0d5d5c0800000000000000
+      internalID: -4191214182989825040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_36
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89b0c96e27ca340800000000000000
+      internalID: 4876398831321454828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_37
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34637f29c0264e0800000000000000
+      internalID: -1990014259992050776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_38
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bd39bbc27fe040800000000000000
+      internalID: 4679084757172991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_39
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1787f4d12bc939250800000000000000
+      internalID: 5950271821496416369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_40
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97001751a3137d40800000000000000
+      internalID: 5580825946913507227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_41
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0bb2a452e49c70800000000000000
+      internalID: 8977048810391538454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_42
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcf2a95fecbf3f20800000000000000
+      internalID: 3404647579502443741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_112
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 3042
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5510855d23c80650800000000000000
+      internalID: 6199419486550889821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ed043375d2dd20800000000000000
+      internalID: 3301936167587277139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f72bbb4b92eb70800000000000000
+      internalID: 8926868160966554707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_46
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccce7a9e44cba4300800000000000000
+      internalID: 237208934554266828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_47
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb28677d8c683bd0800000000000000
+      internalID: -2650249025858032711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_48
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a159f4cc5f2820800000000000000
+      internalID: 2895635086488740050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_49
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115f51eaf53a1ad0800000000000000
+      internalID: -2730810872407568112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_50
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1105f04ad0b350800000000000000
+      internalID: 6030559873572346581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_51
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5dd6047bd99a830800000000000000
+      internalID: 4082967947573581297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_52
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affc157fa1c63f8e0800000000000000
+      internalID: -1660864974495297542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_53
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c5b6ceea95878e0800000000000000
+      internalID: -1695506651879351183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_113
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 2535
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d63cb32cb9497b70800000000000000
+      internalID: 8897223611249342169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5ee5193fd3a030800000000000000
+      internalID: 3504890371298450701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b80e706ee5c560800000000000000
+      internalID: 7333529666441492910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_57
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40584da7101473610800000000000000
+      internalID: 1600819667165021444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_58
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022037ac761f8300800000000000000
+      internalID: 256448428420112902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_59
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25401e80773dc8c0800000000000000
+      internalID: -3977461939338984148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_60
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8850cd55bea1e5dc0800000000000000
+      internalID: -3648449050063403640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_61
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a40feb0bdebeb60800000000000000
+      internalID: 7776570524958739011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_62
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622db5e627d9f5050800000000000000
+      internalID: 5791520760625091110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_63
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0910a377a9fdf0800000000000000
+      internalID: -145901397863757037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_64
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ac51001a278880800000000000000
+      internalID: -8608865914464720722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_114
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 2028
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1effe92f471cfd0800000000000000
+      internalID: -2323447347347988061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f5f2f07885cc990800000000000000
+      internalID: -7364413953559011497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_67
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ccb93f30e2b4bc0800000000000000
+      internalID: -3797891266250027980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_68
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504fee901b3746c50800000000000000
+      internalID: 6657573353373496325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_69
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d4c52aecdc33780800000000000000
+      internalID: -8704387367406121717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_70
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552018ac95449640800000000000000
+      internalID: 5085766418344977747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_71
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9284dab227c804610800000000000000
+      internalID: 1603435889330833449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_72
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131306a86984d450800000000000000
+      internalID: 6112661676803429150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_73
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2ef74f30d62f10800000000000000
+      internalID: 2244710434500128488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_74
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745169c4926cf9360800000000000000
+      internalID: 7178674211732723015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_75
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173c6cf91d3dfb40800000000000000
+      internalID: 5475599903770818321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_115
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 1521
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c97bcc28909c1a0800000000000000
+      internalID: -6788884505899328413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f9068bc7bea8b0800000000000000
+      internalID: -5138968040028113327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e672a32ad0931360800000000000000
+      internalID: 7139209100887488230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_79
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f683217be6ffc0800000000000000
+      internalID: -3461320392427768358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_80
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110a0772bd730240800000000000000
+      internalID: 4756783836888170779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_81
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd93fc8162ee120800000000000000
+      internalID: 2444933535706504306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_82
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bba8f755de9440800000000000000
+      internalID: 4944624014710257583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_83
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d0583a629ad34e0800000000000000
+      internalID: -2000256676065374855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_84
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d474c7a3cbdc3f0800000000000000
+      internalID: -878839392888206035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_85
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0a9e19a1e3b760800000000000000
+      internalID: 7472564323216919716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_86
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f48916453392c0800000000000000
+      internalID: -4426135433582938482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_116
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 1014
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b87f6522cd7cc70800000000000000
+      internalID: 8991397221114546949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c9eebf9e509960800000000000000
+      internalID: 7606683810824571215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_89
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6af0d8988f9bd60800000000000000
+      internalID: 7906623890486437617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_90
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c878130cf7a5a2170800000000000000
+      internalID: 8154429580039522188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_91
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2d2257ece62c80800000000000000
+      internalID: -8347724381024342285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_92
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c271a139e3de496a0800000000000000
+      internalID: -6443264313848621268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_93
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9beec440e476bcc0800000000000000
+      internalID: -3695637937635005540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_94
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950283d145ffdf10800000000000000
+      internalID: 2296823998052435346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_95
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8e3538ac6dc790800000000000000
+      internalID: -7508225534053151354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_96
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24bd9ae18a03f30800000000000000
+      internalID: 4553324072923775712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_97
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ecb3ca428e2b2f0800000000000000
+      internalID: -958448526470426992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_117
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 507
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9907129d976981470800000000000000
+      internalID: 8365601757918752921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa711c4b4e3423d0800000000000000
+      internalID: -3232390139425490268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_100
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a735b64c97445ca0800000000000000
+      internalID: -6029115264615499865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_101
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503abce8349f31c0800000000000000
+      internalID: -4521732528645984173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_102
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b7828dacafecc90800000000000000
+      internalID: -7147499809473528970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_103
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a915f2dfce15140800000000000000
+      internalID: 4706803657743637046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_104
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1962811044e5650800000000000000
+      internalID: 6223486506563441072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_105
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbadf2b5aa6c5eca0800000000000000
+      internalID: -5988161694542603589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_106
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f02db8ec0e6271d0800000000000000
+      internalID: -3354497770714226446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_107
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09fa9a0fcd6f100800000000000000
+      internalID: 141543364505866489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_108
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d935d35711b40610800000000000000
+      internalID: 1586587682490104272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundExplosionLarge_118
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 0
+        width: 519
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2eae52e5197260800000000000000
+      internalID: 7095726749894192489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

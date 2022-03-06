@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 10c336b055edb43c4963ef7bc438fe10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7536515291086618900
+    second: Turret_left_top_to_bottom_0
+  - first:
+      213: -6923000056723258658
+    second: Turret_left_top_to_bottom_1
+  - first:
+      213: -7162811566465501660
+    second: Turret_left_top_to_bottom_2
+  - first:
+      213: 5362196769679315942
+    second: Turret_left_top_to_bottom_16
+  - first:
+      213: 8333998876916911512
+    second: Turret_left_top_to_bottom_4
+  - first:
+      213: 2159735472532679850
+    second: Turret_left_top_to_bottom_5
+  - first:
+      213: 7394155902346579426
+    second: Turret_left_top_to_bottom_6
+  - first:
+      213: -5794370571275877244
+    second: Turret_left_top_to_bottom_7
+  - first:
+      213: -6743549160910646476
+    second: Turret_left_top_to_bottom_8
+  - first:
+      213: 1545338971148863864
+    second: Turret_left_top_to_bottom_9
+  - first:
+      213: 8987355742516516568
+    second: Turret_left_top_to_bottom_10
+  - first:
+      213: 208617608937872456
+    second: Turret_left_top_to_bottom_11
+  - first:
+      213: 8986391677041199163
+    second: Turret_left_top_to_bottom_12
+  - first:
+      213: -3041496668632875245
+    second: Turret_left_top_to_bottom_13
+  - first:
+      213: -5869709760440602746
+    second: Turret_left_top_to_bottom_14
+  - first:
+      213: 8924562729821532881
+    second: Turret_left_top_to_bottom_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2168
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7b7ed54be86790800000000000000
+      internalID: -7536515291086618900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_1
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2168
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed24007c0209cef90800000000000000
+      internalID: -6923000056723258658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_2
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2168
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b3cb94d4989c90800000000000000
+      internalID: -7162811566465501660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_16
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 2168
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e39b784d895a6a40800000000000000
+      internalID: 5362196769679315942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d0329b2df48a370800000000000000
+      internalID: 8333998876916911512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1626
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacee1138fbe8fd10800000000000000
+      internalID: 2159735472532679850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_6
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1626
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc9350e915d9660800000000000000
+      internalID: 7394155902346579426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484cf125aa2469fa0800000000000000
+      internalID: -5794370571275877244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1084
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433998a54c91a62a0800000000000000
+      internalID: -6743549160910646476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_9
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1084
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87945e05b95227510800000000000000
+      internalID: 1545338971148863864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d693c64e6089bc70800000000000000
+      internalID: 8987355742516516568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_11
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 542
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c12aa2c9825e200800000000000000
+      internalID: 208617608937872456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_12
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 542
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38419a4e9316bc70800000000000000
+      internalID: 8986391677041199163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7a98f4ee6ac5d0800000000000000
+      internalID: -3041496668632875245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_14
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6b4a621a9a8ea0800000000000000
+      internalID: -5869709760440602746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret_left_top_to_bottom_15
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 962
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f3b6b48a6adb70800000000000000
+      internalID: 8924562729821532881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
