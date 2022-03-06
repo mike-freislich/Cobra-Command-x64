@@ -6047,7 +6047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bomb: {fileID: 781379458750140638, guid: cbd0b8998d44c49e8ab993fe4aff6238, type: 3}
   spawnPoint: {fileID: 1021943614}
-  fireRate: 0.5
+  fireRate: 1
 --- !u!114 &975594384
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6062,7 +6062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 3894822061976642530, guid: 6638dcbe5e2664dfcb57e7c55c5c0317, type: 3}
   spawnPoint: {fileID: 1771483270}
-  fireRate: 0.2
+  fireRate: 0.5
 --- !u!82 &975594385
 AudioSource:
   m_ObjectHideFlags: 0
@@ -7150,11 +7150,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7148105866920463793, guid: c0e22a0c5567446599e19cbbf4da02db, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.84
+      value: -13.95
       objectReference: {fileID: 0}
     - target: {fileID: 7148105866920463793, guid: c0e22a0c5567446599e19cbbf4da02db, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.04
+      value: -2.95
       objectReference: {fileID: 0}
     - target: {fileID: 7148105866920463793, guid: c0e22a0c5567446599e19cbbf4da02db, type: 3}
       propertyPath: m_LocalPosition.z
