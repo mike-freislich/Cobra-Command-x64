@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -6087809858058113522}
   m_Layer: 6
   m_Name: Bomb
-  m_TagString: Untagged
+  m_TagString: Player Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114,8 +114,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d558d46add904b7daaf9980bdd1e535, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosion: {fileID: 1701525147850113677, guid: 413645c9c36d244c5a0c722d374c4b8e, type: 3}
+  power: 50
   speed: 1
-  explosion: {fileID: 7223322040953628749, guid: a9318886e77bb49c198982f93d247db8, type: 3}
 --- !u!82 &-3409636009797321902
 AudioSource:
   m_ObjectHideFlags: 0

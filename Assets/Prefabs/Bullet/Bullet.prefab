@@ -124,6 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosion: {fileID: 1701525147850113677, guid: 413645c9c36d244c5a0c722d374c4b8e, type: 3}
+  power: 25
   speed: 15
   rb: {fileID: -504792952098504434}
 --- !u!50 &-504792952098504434
