@@ -19,8 +19,7 @@ public class BombSpawn : MonoBehaviour
        float fireElapsed = time - lastFired;       
        bool shoot = (Input.GetKey("/") && (fireElapsed > fireRate));
        if (shoot) {           
-           Instantiate(bomb, spawnPoint.position, spawnPoint.rotation);           
-           //Debug.Log("bomb layer = " + bomb.layer);
+           Instantiate(bomb, spawnPoint.position, spawnPoint.rotation);                      
            lastFired = time;
        }
    }

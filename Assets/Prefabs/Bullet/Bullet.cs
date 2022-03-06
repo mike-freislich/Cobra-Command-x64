@@ -15,8 +15,7 @@ public class Bullet : Fire
 
     void FixedUpdate()
     {
-        if (offScreen())
-            Destroy(gameObject);
+        if (offScreen()) Destroy(gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -25,9 +24,4 @@ public class Bullet : Fire
         explode();        
     }
 
-    private void explode()
-    {
-        Instantiate(explosion, transform.position, new Quaternion());
-        Destroy(gameObject);
-    }
 }

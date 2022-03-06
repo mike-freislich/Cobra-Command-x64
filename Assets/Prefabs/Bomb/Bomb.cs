@@ -37,7 +37,7 @@ public class Bomb : Fire
         explode();        
     }
 
-    private void explode()
+    override public void explode()
     {
         Vector3 pos = transform.position;
         Vector3 extents = explosion.GetComponent<SpriteRenderer>().bounds.extents;
